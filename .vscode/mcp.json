@@ -1,0 +1,13 @@
+{
+  "servers": {
+    "netmcp-server": {
+      "type": "stdio",
+      "command": "dotnet",
+      "args": [
+        "run",
+        "--project",
+        "E:\\kişisel dosyalarım\\repos\\NetMcp\\NetMcp\\NetMcp.csproj"
+      ]
+    }
+  }
+}
